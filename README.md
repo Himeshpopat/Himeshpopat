@@ -18,13 +18,10 @@ Passionate about building scalable software, applying machine learning to real-w
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Information Technology at **K. J. Somaiya Institute of Technology**
-- 📈 Current CGPA: **9.83**
-- 💼 AI/ML Intern at **India Meteorological Department (IMD)**
+- 📈 CGPA: **9.83**
 - 🧠 Solved **150+ LeetCode problems** across core DSA topics
 - 🔭 Interested in Backend Development, Software Engineering, and Machine Learning
 - 🌱 Currently learning: MERN Stack, System Design Fundamentals, ML Deployment, Cloud Technologies
-
-<br/>
 
 ---
 
@@ -121,11 +118,6 @@ Passionate about building scalable software, applying machine learning to real-w
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Himeshpopat&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himeshpopat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Himeshpopat&theme=tokyonight&hide_border=true"/>
 
