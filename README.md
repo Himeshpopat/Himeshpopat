@@ -2,7 +2,7 @@
 
 # Himesh Popat
 
-### Software Developer • IMD Intern @KJSIT • B.Tech IT @KJSIT
+### Software Developer • IMD Intern (via KJSIT) • B.Tech IT @KJSIT
 
 Passionate about building scalable software, applying machine learning to real-world problems, and strengthening problem-solving through Data Structures & Algorithms.
 
