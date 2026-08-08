@@ -111,7 +111,7 @@ Passionate about building scalable software, applying machine learning to real-w
 **Tech:** Python • Scikit-Learn • Streamlit
 
 [![Diabetes Prediction](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himeshpopat/diabetes-detection-system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ai-diabetes-detection-by-himesh.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-detection-system-26.streamlit.app/)
 
 ---
 
