@@ -19,7 +19,7 @@ Passionate about building scalable software, applying machine learning to real-w
 
 - 🎓 B.Tech in Information Technology at **K. J. Somaiya Institute of Technology**
 - 📈 CGPA: **9.83**
-- 🧠 Solved **150+ LeetCode problems** across core DSA topics
+- 🧠 Solved **240+ LeetCode problems** across core DSA topics
 - 🔭 Interested in Backend Development, Software Engineering, and Machine Learning
 - 🌱 Currently learning: MERN Stack, System Design Fundamentals, ML Deployment, Cloud Technologies
 
