@@ -2,7 +2,7 @@
 
 # Himesh Popat
 
-### Software Developer • IMD Intern (via KJSIT) • B.Tech IT @KJSIT
+### Software Developer • Intern @IMD • Intern @Tata Power Mumbai • B.Tech IT @KJSIT
 
 Passionate about building scalable software, applying machine learning to real-world problems, and strengthening problem-solving through Data Structures & Algorithms.
 
@@ -53,20 +53,25 @@ Passionate about building scalable software, applying machine learning to real-w
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-### 🌦 Weather Forecasting using Machine Learning
+### Machine Learning Intern — Tata Power
+*Weather Prediction Project · June 2026 – Present*
 
-> End-to-end forecasting pipeline built on 297,000+ historical weather observations using ensemble ML models.
+- Built a day-ahead temperature forecasting pipeline over **3M+ historical weather records**, predicting all **96 daily 15-minute intervals** for power-scheduling applications.
+- Engineered time-series features (lags, rolling statistics, 30-day climatology, diurnal anomalies) and used causal preprocessing to prevent future-data leakage.
+- Evaluated multiple forecasting models and developed a final **Random Forest–Analogue ensemble**, reaching **3.573% MAPE** on a locked confirmation test spanning 48 quality-controlled (QC-clean) days.
 
-- Engineered time-series, lag, and rolling statistical features
-- Built LightGBM and XGBoost regression models
-- Achieved R² of **0.9955** (temperature) and **0.9817** (relative humidity)
-- Integrated trained models into an automated weather analytics dashboard
+### Full-Stack Development Intern — India Meteorological Department (IMD)
+*June 2026 – Present*
 
-**Tech:** Python • Pandas • NumPy • Scikit-Learn • LightGBM • XGBoost
+- Built an atmospheric research platform with **React, TypeScript, Flask, and MongoDB**, including JWT authentication, protected REST APIs, and role-based access control.
+- Developed **7 Recharts visualizations** for atmospheric analysis, plus a Pandas-based CSV/XLSX ingestion pipeline with meteorological validation and data-quality reports.
+- Integrated the **SondeHub v2 API** with thread-safe TTL caching and error handling; implemented balloon tracking, periodic updates, and historical sounding imports.
 
 ---
+
+## 🚀 Featured Projects
 
 ### 🛒 Veloxa — B2B Wholesale Commerce Platform
 
@@ -131,11 +136,13 @@ Passionate about building scalable software, applying machine learning to real-w
 
 ## 🏆 Achievements
 
-- 🎯 96th Percentile in JEE Main 2024
-- 📚 Deloitte Data Analytics Job Simulation
-- 🎓 IIT Bombay Spoken Tutorial Certifications
-- 🚀 Developed and deployed multiple full-stack & ML applications
-- 🔐 150+ LeetCode Problems Solved
+- 🎯 **96th Percentile in JEE Main 2024**, among approximately 1.4 million candidates.
+- 🥇 Achieved a perfect **10.0 SGPA** in Semesters II and IV.
+- 🚀 Qualified for **Smart India Hackathon (SIH) 2026 Round 2**, leading a six-member team to develop a full-stack platform for cultural heritage preservation.
+- 💻 Solved **240+ problems on LeetCode**, covering various Data Structures and Algorithms topics.
+- 🏅 Qualified and participated in the **AMD Online Hackathon**.
+- 📊 Completed **Deloitte Data Analytics Job Simulation** through Forage, covering data analysis and forensic technology.
+- 🎓 Completed **IIT Bombay Spoken Tutorial Certifications** in Python (100%) and Java (95%).
 
 ---
 
