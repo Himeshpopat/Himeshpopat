@@ -126,10 +126,6 @@ Passionate about building scalable software, applying machine learning to real-w
 
 <img src="https://streak-stats.demolab.com?user=Himeshpopat&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himeshpopat&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
 ---
