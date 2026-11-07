@@ -19,7 +19,7 @@ Passionate about building scalable software, applying machine learning to real-w
 
 - 🎓 B.Tech in Information Technology at **K. J. Somaiya Institute of Technology**
 - 📈 CGPA: **9.83**
-- 🧠 Solved **240+ LeetCode problems** across core DSA topics
+- 🧠 Solved **250+ LeetCode problems** across core DSA topics
 - 🔭 Interested in Backend Development, Software Engineering, and Machine Learning
 - 🌱 Currently learning: MERN Stack, System Design Fundamentals, ML Deployment, Cloud Technologies
 
@@ -135,7 +135,7 @@ Passionate about building scalable software, applying machine learning to real-w
 - 🎯 **96th Percentile in JEE Main 2024**, among approximately 1.4 million candidates.
 - 🥇 Achieved a perfect **10.0 SGPA** in Semesters II and IV.
 - 🚀 Qualified for **Smart India Hackathon (SIH) 2026 Round 2**, leading a six-member team to develop a full-stack platform for cultural heritage preservation.
-- 💻 Solved **240+ problems on LeetCode**, covering various Data Structures and Algorithms topics.
+- 💻 Solved **250+ problems on LeetCode**, covering various Data Structures and Algorithms topics.
 - 🏅 Qualified and participated in the **AMD Online Hackathon**.
 - 📊 Completed **Deloitte Data Analytics Job Simulation** through Forage, covering data analysis and forensic technology.
 - 🎓 Completed **IIT Bombay Spoken Tutorial Certifications** in Python (100%) and Java (95%).
