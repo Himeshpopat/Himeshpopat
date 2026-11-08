@@ -241,26 +241,9 @@
 
 ## 📊 GitHub Analytics
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Himeshpopat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himeshpopat&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
-</td>
-</tr>
-</table>
-
 <p align="center">
-  <img src="./assets/divider.svg" alt="divider" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Himeshpopat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
-<div align="center">
 
 ## 📫 Let's Connect
 
