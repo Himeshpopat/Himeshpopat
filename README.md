@@ -1,10 +1,8 @@
 <div align="center">
 
-# Himesh Popat
+<img src="./assets/hero-banner.svg" alt="Himesh Popat — Software Developer" width="100%" />
 
-### Software Developer • Intern @IMD • Intern @Tata Power Mumbai • B.Tech IT @KJSIT
-
-Passionate about building scalable software, applying machine learning to real-world problems, and strengthening problem-solving through Data Structures & Algorithms.
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himeshpopat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himesh-popat)
@@ -12,9 +10,15 @@ Passionate about building scalable software, applying machine learning to real-w
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/himesh_popat/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himeshpopat2006@gmail.com)
 
+<br/><br/>
+
+<img src="./assets/metrics-bar.svg" alt="Key Engineering Metrics — CGPA 9.83 | 250 LeetCode | 3.573% MAPE | JEE 96th %ile" width="100%" />
+
 </div>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -24,37 +28,15 @@ Passionate about building scalable software, applying machine learning to real-w
 - 🔭 Interested in Backend Development, Software Engineering, and Machine Learning
 - 🌱 Currently learning: MERN Stack, System Design Fundamentals, ML Deployment, Cloud Technologies
 
----
-
-## 🛠 Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask"/> <img src="https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white"/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-
-**Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat"/> <img src="https://img.shields.io/badge/XGBoost-CC0000?style=flat"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 ## Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### Machine Learning Intern — Tata Power
 *Weather Prediction Project · June 2026 – Present*
@@ -63,6 +45,9 @@ Passionate about building scalable software, applying machine learning to real-w
 - Engineered time-series features (lags, rolling statistics, 30-day climatology, diurnal anomalies) and used causal preprocessing to prevent future-data leakage.
 - Evaluated multiple forecasting models and developed a final **Random Forest–Analogue ensemble**, reaching **3.573% MAPE** on a locked confirmation test spanning 48 quality-controlled (QC-clean) days.
 
+</td>
+<td width="50%" valign="top">
+
 ### Full-Stack Development Intern — India Meteorological Department (IMD)
 *June 2026 – Present*
 
@@ -70,11 +55,21 @@ Passionate about building scalable software, applying machine learning to real-w
 - Developed **7 Recharts visualizations** for atmospheric analysis, plus a Pandas-based CSV/XLSX ingestion pipeline with meteorological validation and data-quality reports.
 - Integrated the **SondeHub v2 API** with thread-safe TTL caching and error handling; implemented balloon tracking, periodic updates, and historical sounding imports.
 
----
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 ## 🚀 Featured Projects
 
 > 💡 *Explore live interactive demos and in-depth case studies on my [Portfolio Website](https://himesh-popat.vercel.app).*
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🛒 Veloxa — B2B Wholesale Commerce Platform
 
@@ -90,7 +85,8 @@ Passionate about building scalable software, applying machine learning to real-w
 [![Veloxa](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himeshpopat/Veloxa)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-46A2F1?style=flat-square&logo=render&logoColor=white)](https://veloxa-kla4.onrender.com/)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 👁 Color Vision Deficiency Detection & Simulation
 
@@ -105,7 +101,10 @@ Passionate about building scalable software, applying machine learning to real-w
 [![Color Vision Detection](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himeshpopat/Color-Blindness-Detection-System)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-46A2F1?style=flat-square&logo=render&logoColor=white)](https://color-blindness-app.onrender.com/)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🩺 Diabetes Risk Prediction System
 
@@ -121,7 +120,8 @@ Passionate about building scalable software, applying machine learning to real-w
 [![Diabetes Prediction](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himeshpopat/diabetes-detection-system)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-detection-system-26.streamlit.app/)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio & Interactive Showcase
 
@@ -135,7 +135,68 @@ Passionate about building scalable software, applying machine learning to real-w
 [![Portfolio](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himeshpopat/Portfolio)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://himesh-popat.vercel.app)
 
----
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
+
+## 🛠 Tech Stack
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+
+</td>
+<td width="34%" valign="top">
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask"/> <img src="https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat"/> <img src="https://img.shields.io/badge/XGBoost-CC0000?style=flat"/>
+
+</td>
+<td width="34%" valign="top">
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -149,7 +210,9 @@ Passionate about building scalable software, applying machine learning to real-w
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 ## 🏆 Achievements
 
@@ -161,7 +224,9 @@ Passionate about building scalable software, applying machine learning to real-w
 - 📊 Completed **Deloitte Data Analytics Job Simulation** through Forage, covering data analysis and forensic technology.
 - 🎓 Completed **IIT Bombay Spoken Tutorial Certifications** in Python (100%) and Java (95%).
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 ## 🌱 Currently Learning
 
@@ -171,7 +236,9 @@ Passionate about building scalable software, applying machine learning to real-w
 - Learning PostgreSQL and scalable database design
 - Solving Data Structures & Algorithms regularly
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 <div align="center">
 
@@ -185,7 +252,9 @@ Passionate about building scalable software, applying machine learning to real-w
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
 
 <div align="center">
 
