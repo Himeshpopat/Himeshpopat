@@ -8,6 +8,7 @@ Passionate about building scalable software, applying machine learning to real-w
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himeshpopat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himesh-popat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himesh-popat.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/himesh_popat/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himeshpopat2006@gmail.com)
 
@@ -19,7 +20,7 @@ Passionate about building scalable software, applying machine learning to real-w
 
 - 🎓 B.Tech in Information Technology at **K. J. Somaiya Institute of Technology**
 - 📈 CGPA: **9.83**
-- 🧠 Solved **250+ LeetCode problems** across core DSA topics
+- 🧠 Solved **240+ LeetCode problems** across core DSA topics
 - 🔭 Interested in Backend Development, Software Engineering, and Machine Learning
 - 🌱 Currently learning: MERN Stack, System Design Fundamentals, ML Deployment, Cloud Technologies
 
@@ -73,6 +74,8 @@ Passionate about building scalable software, applying machine learning to real-w
 
 ## 🚀 Featured Projects
 
+> 💡 *Explore live interactive demos and in-depth case studies on my [Portfolio Website](https://himesh-popat.vercel.app).*
+
 ### 🛒 Veloxa — B2B Wholesale Commerce Platform
 
 > Wholesale order management platform built for wholesalers and retailers.
@@ -120,11 +123,29 @@ Passionate about building scalable software, applying machine learning to real-w
 
 ---
 
+### 🌐 Personal Portfolio & Interactive Showcase
+
+> Modern, responsive developer portfolio showcasing engineering projects, interactive demos, and technical skills.
+
+- Built with modern frontend architecture, component-driven design, and responsive layout
+- Strict TypeScript type safety, optimal performance, and continuous deployment via Vercel
+
+**Tech:** React 19 • TypeScript • Tailwind CSS • Vite • Vercel
+
+[![Portfolio](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himeshpopat/Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://himesh-popat.vercel.app)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Himeshpopat&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himeshpopat&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -135,7 +156,7 @@ Passionate about building scalable software, applying machine learning to real-w
 - 🎯 **96th Percentile in JEE Main 2024**, among approximately 1.4 million candidates.
 - 🥇 Achieved a perfect **10.0 SGPA** in Semesters II and IV.
 - 🚀 Qualified for **Smart India Hackathon (SIH) 2026 Round 2**, leading a six-member team to develop a full-stack platform for cultural heritage preservation.
-- 💻 Solved **250+ problems on LeetCode**, covering various Data Structures and Algorithms topics.
+- 💻 Solved **240+ problems on LeetCode**, covering various Data Structures and Algorithms topics.
 - 🏅 Qualified and participated in the **AMD Online Hackathon**.
 - 📊 Completed **Deloitte Data Analytics Job Simulation** through Forage, covering data analysis and forensic technology.
 - 🎓 Completed **IIT Bombay Spoken Tutorial Certifications** in Python (100%) and Java (95%).
@@ -158,6 +179,7 @@ Passionate about building scalable software, applying machine learning to real-w
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himeshpopat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himesh-popat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himesh-popat.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/himesh_popat/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himeshpopat2006@gmail.com)
 
@@ -169,6 +191,6 @@ Passionate about building scalable software, applying machine learning to real-w
 
 Thanks for visiting!
 
-Feel free to connect or collaborate on exciting projects.
+Explore my [Portfolio Website](https://himesh-popat.vercel.app) or connect to collaborate on exciting projects.
 
 </div>
