@@ -20,6 +20,10 @@
   <img src="./assets/divider.svg" alt="divider" width="100%" />
 </p>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Information Technology at **K. J. Somaiya Institute of Technology**
@@ -27,6 +31,21 @@
 - 🧠 Solved **250+ LeetCode problems** across core DSA topics
 - 🔭 Interested in Backend Development, Software Engineering, and Machine Learning
 - 🌱 Currently learning: MERN Stack, System Design Fundamentals, ML Deployment, Cloud Technologies
+
+</td>
+<td width="50%" valign="top">
+
+## 🌱 Currently Learning
+
+- Building full-stack applications with the MERN Stack
+- Strengthening Backend Development and REST API design
+- Exploring System Design fundamentals
+- Learning PostgreSQL and scalable database design
+- Solving Data Structures & Algorithms regularly
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="./assets/divider.svg" alt="divider" width="100%" />
@@ -151,21 +170,21 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" alt="C++, Java, Python, JavaScript"/>
 
 </td>
 <td width="33%" valign="top">
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS, Bootstrap"/>
 
 </td>
 <td width="34%" valign="top">
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask"/> <img src="https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=flask" alt="Flask"/> <img src="https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white" alt="REST API"/>
 
 </td>
 </tr>
@@ -174,21 +193,43 @@
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="MySQL, PostgreSQL, SQLite"/>
 
 </td>
 <td width="33%" valign="top">
 
 **Machine Learning**
 <br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat"/> <img src="https://img.shields.io/badge/XGBoost-CC0000?style=flat"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat" alt="LightGBM"/> <img src="https://img.shields.io/badge/XGBoost-CC0000?style=flat" alt="XGBoost"/>
 
 </td>
 <td width="34%" valign="top">
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
+
+## 🏆 Achievements
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+- 🎯 **96th Percentile in JEE Main 2024**, among approximately 1.4 million candidates.
+- 🥇 Achieved a perfect **10.0 SGPA** in Semesters II and IV.
+- 🚀 Qualified for **Smart India Hackathon (SIH) 2026 Round 2**, leading a six-member team to develop a full-stack platform for cultural heritage preservation.
+- 💻 Solved **250+ problems on LeetCode**, covering various Data Structures and Algorithms topics.
+- 🏅 Qualified and participated in the **AMD Online Hackathon**.
+- 📊 Completed **Deloitte Data Analytics Job Simulation** through Forage, covering data analysis and forensic technology.
+- 🎓 Completed **IIT Bombay Spoken Tutorial Certifications** in Python (100%) and Java (95%).
 
 </td>
 </tr>
@@ -200,41 +241,20 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
 
-<img src="https://streak-stats.demolab.com?user=Himeshpopat&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=Himeshpopat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
-<br/>
+</td>
+<td width="50%" align="center" valign="middle">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himeshpopat&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himeshpopat&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
-</div>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" width="100%" />
-</p>
-
-## 🏆 Achievements
-
-- 🎯 **96th Percentile in JEE Main 2024**, among approximately 1.4 million candidates.
-- 🥇 Achieved a perfect **10.0 SGPA** in Semesters II and IV.
-- 🚀 Qualified for **Smart India Hackathon (SIH) 2026 Round 2**, leading a six-member team to develop a full-stack platform for cultural heritage preservation.
-- 💻 Solved **250+ problems on LeetCode**, covering various Data Structures and Algorithms topics.
-- 🏅 Qualified and participated in the **AMD Online Hackathon**.
-- 📊 Completed **Deloitte Data Analytics Job Simulation** through Forage, covering data analysis and forensic technology.
-- 🎓 Completed **IIT Bombay Spoken Tutorial Certifications** in Python (100%) and Java (95%).
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" width="100%" />
-</p>
-
-## 🌱 Currently Learning
-
-- Building full-stack applications with the MERN Stack
-- Strengthening Backend Development and REST API design
-- Exploring System Design fundamentals
-- Learning PostgreSQL and scalable database design
-- Solving Data Structures & Algorithms regularly
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="./assets/divider.svg" alt="divider" width="100%" />

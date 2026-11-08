@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 105" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" width="100%" height="100%" role="img" aria-label="Key Engineering Metrics — CGPA 9.83 | 250 LeetCode | 3.573% MAPE | JEE 96th %ile">
   <defs>
-    <!-- Card Surface Gradient -->
+    <!-- Bento Card Obsidian Gradient -->
     <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#0B0F19"/>
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#070B14"/>
     </linearGradient>
 
     <!-- Card 1 (CGPA) Cyan Accent -->
@@ -12,10 +12,10 @@
       <stop offset="100%" stop-color="#0284C7"/>
     </linearGradient>
 
-    <!-- Card 2 (LeetCode) Gold Accent -->
+    <!-- Card 2 (LeetCode 250) Gold Accent -->
     <linearGradient id="metric2Grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FBBF24"/>
-      <stop offset="100%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
     </linearGradient>
 
     <!-- Card 3 (Tata Power MAPE) Emerald Accent -->
@@ -24,51 +24,50 @@
       <stop offset="100%" stop-color="#059669"/>
     </linearGradient>
 
-    <!-- Card 4 (JEE Main) Purple Accent -->
+    <!-- Card 4 (JEE Main) Violet Accent -->
     <linearGradient id="metric4Grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#A78BFA"/>
       <stop offset="100%" stop-color="#7C3AED"/>
     </linearGradient>
-
-    <style>
-      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
-      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-    </style>
   </defs>
 
   <!-- CARD 1: CGPA -->
-  <g transform="translate(8, 6)">
-    <rect width="208" height="92" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
-    <path d="M 0 12 Q 0 0 12 0 L 208 0" stroke="url(#metric1Grad)" stroke-width="2.5" fill="none"/>
-    <text x="20" y="42" fill="url(#metric1Grad)" font-size="28" font-weight="800" class="sans" letter-spacing="-0.5">9.83</text>
-    <text x="20" y="63" fill="#E2E8F0" font-size="10.5" font-weight="700" class="mono" letter-spacing="1">CUMULATIVE CGPA</text>
-    <text x="20" y="78" fill="#64748B" font-size="10" font-weight="500" class="sans">K.J. Somaiya IT · Sem II &amp; IV: 10.0</text>
+  <g transform="translate(6, 6)">
+    <rect width="210" height="98" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <rect x="14" y="0" width="182" height="2.5" rx="1.25" fill="url(#metric1Grad)"/>
+    <circle cx="192" cy="22" r="3" fill="#38BDF8" fill-opacity="0.4"/>
+    <text x="20" y="44" fill="#38BDF8" font-size="30" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif" letter-spacing="-0.6">9.83</text>
+    <text x="20" y="66" fill="#F1F5F9" font-size="10.5" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, DejaVu Sans Mono, monospace" letter-spacing="0.9">CUMULATIVE CGPA</text>
+    <text x="20" y="83" fill="#94A3B8" font-size="10.5" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif">K.J. Somaiya IT · Sem II &amp; IV: 10.0</text>
   </g>
 
-  <!-- CARD 2: LEETCODE (Locked to 250) -->
+  <!-- CARD 2: LEETCODE (STRICTLY LOCKED TO 250) -->
   <g transform="translate(232, 6)">
-    <rect width="208" height="92" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
-    <path d="M 0 12 Q 0 0 12 0 L 208 0" stroke="url(#metric2Grad)" stroke-width="2.5" fill="none"/>
-    <text x="20" y="42" fill="url(#metric2Grad)" font-size="28" font-weight="800" class="sans" letter-spacing="-0.5">250</text>
-    <text x="20" y="63" fill="#E2E8F0" font-size="10.5" font-weight="700" class="mono" letter-spacing="1">LEETCODE PROBLEMS</text>
-    <text x="20" y="78" fill="#64748B" font-size="10" font-weight="500" class="sans">Core DSA Topics Mastered</text>
+    <rect width="210" height="98" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <rect x="14" y="0" width="182" height="2.5" rx="1.25" fill="url(#metric2Grad)"/>
+    <circle cx="192" cy="22" r="3" fill="#FBBF24" fill-opacity="0.4"/>
+    <text x="20" y="44" fill="#FBBF24" font-size="30" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif" letter-spacing="-0.6">250</text>
+    <text x="20" y="66" fill="#F1F5F9" font-size="10.5" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, DejaVu Sans Mono, monospace" letter-spacing="0.9">LEETCODE PROBLEMS</text>
+    <text x="20" y="83" fill="#94A3B8" font-size="10.5" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif">Core DSA Topics Mastered</text>
   </g>
 
   <!-- CARD 3: TATA POWER MAPE -->
-  <g transform="translate(456, 6)">
-    <rect width="208" height="92" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
-    <path d="M 0 12 Q 0 0 12 0 L 208 0" stroke="url(#metric3Grad)" stroke-width="2.5" fill="none"/>
-    <text x="20" y="42" fill="url(#metric3Grad)" font-size="28" font-weight="800" class="sans" letter-spacing="-0.5">3.573%</text>
-    <text x="20" y="63" fill="#E2E8F0" font-size="10.5" font-weight="700" class="mono" letter-spacing="1">FORECAST MAPE</text>
-    <text x="20" y="78" fill="#64748B" font-size="10" font-weight="500" class="sans">Tata Power · 3M+ Weather Records</text>
+  <g transform="translate(458, 6)">
+    <rect width="210" height="98" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <rect x="14" y="0" width="182" height="2.5" rx="1.25" fill="url(#metric3Grad)"/>
+    <circle cx="192" cy="22" r="3" fill="#34D399" fill-opacity="0.4"/>
+    <text x="20" y="44" fill="#34D399" font-size="30" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif" letter-spacing="-0.6">3.573%</text>
+    <text x="20" y="66" fill="#F1F5F9" font-size="10.5" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, DejaVu Sans Mono, monospace" letter-spacing="0.9">FORECAST MAPE</text>
+    <text x="20" y="83" fill="#94A3B8" font-size="10.5" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif">Tata Power · 3M+ Weather Records</text>
   </g>
 
   <!-- CARD 4: JEE MAIN -->
-  <g transform="translate(680, 6)">
-    <rect width="208" height="92" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
-    <path d="M 0 12 Q 0 0 12 0 L 208 0" stroke="url(#metric4Grad)" stroke-width="2.5" fill="none"/>
-    <text x="20" y="42" fill="url(#metric4Grad)" font-size="28" font-weight="800" class="sans" letter-spacing="-0.5">96th %ile</text>
-    <text x="20" y="63" fill="#E2E8F0" font-size="10.5" font-weight="700" class="mono" letter-spacing="1">JEE MAIN 2024</text>
-    <text x="20" y="78" fill="#64748B" font-size="10" font-weight="500" class="sans">Top Rank Among ~1.4M Candidates</text>
+  <g transform="translate(684, 6)">
+    <rect width="210" height="98" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <rect x="14" y="0" width="182" height="2.5" rx="1.25" fill="url(#metric4Grad)"/>
+    <circle cx="192" cy="22" r="3" fill="#A78BFA" fill-opacity="0.4"/>
+    <text x="20" y="44" fill="#A78BFA" font-size="30" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif" letter-spacing="-0.6">96th %ile</text>
+    <text x="20" y="66" fill="#F1F5F9" font-size="10.5" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, DejaVu Sans Mono, monospace" letter-spacing="0.9">JEE MAIN 2024</text>
+    <text x="20" y="83" fill="#94A3B8" font-size="10.5" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, DejaVu Sans, sans-serif">Top Rank Among ~1.4M Candidates</text>
   </g>
 </svg>
