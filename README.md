@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="./assets/metrics-bar.svg" alt="Key Engineering Metrics — CGPA 9.83 | 250 LeetCode | 3.573% MAPE | JEE 96th %ile" width="100%" />
+<img src="./assets/metrics-bar.svg" alt="Key Engineering Metrics — CGPA 9.83 | 250+ LeetCode | 3.573% MAPE | JEE 96th %ile" width="100%" />
 
 </div>
 
